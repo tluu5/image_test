@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">image_test</string>
+    <string name="iv_content_description">A movie poster</string>
+    <string name="movie_detail_rating">Rating: %1$f</string>
+    <string name="movie_detail_release">Release year: %1$d</string>
+    <string name="movie_detail_genre">Genre: %1$s</string>
+</resources>
